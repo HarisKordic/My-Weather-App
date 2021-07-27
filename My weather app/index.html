@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Weather App</title>
+    <link rel="stylesheet" href="/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+    />
+    <script defer src="/script.js"></script>
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="heading">
+        <h1>My Weather App</h1>
+      </div>
+      <div id="input">
+        <input type="text" id="city" placeholder="Enter your city" />
+        <i class="material-icons" onclick="getWeather()">search</i>
+      </div>
+      <div id="weather-table">
+        <table id="tableForWeather">
+          <tr>
+            <th>City</th>
+            <th>Country</th>
+            <th>Local time</th>
+            <th>Temperature</th>
+            <th>Feels like</th>
+            <th>Condition</th>
+            <th>Outside</th>
+            <th>Wind speed</th>
+            <th>Humidity</th>
+          </tr>
+        </table>
+        <div id="footer">
+          <p>My Weather app</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
