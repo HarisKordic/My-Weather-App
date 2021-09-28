@@ -22,6 +22,6 @@ Mobile view:
 <summary>Izbornik repozitorija</summary>
 <br>
 <ul>
-<li>[WEBSITE](https://serene-bhabha-83ffb3.netlify.app/)</li>
+<li src="https://serene-bhabha-83ffb3.netlify.app/"></li>
 </ul>
 </details>
