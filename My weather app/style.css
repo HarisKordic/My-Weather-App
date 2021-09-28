@@ -55,10 +55,10 @@ th {
   border: none;
   border-radius: 100em;
 }
-table {
+#tableForWeather {
+  padding: 5px;
   width: 90%;
-  margin-right: auto;
-  margin-left: auto;
+  margin: 0 auto;
 }
 .material-icons {
   position: relative;
@@ -81,7 +81,7 @@ table {
       padding: 10px;
   }
   #weather-table {
-    width: 85%;
+    width: 80%;
     overflow-y: hidden;
     overflow-x: scroll;
   }
@@ -89,8 +89,13 @@ table {
   #input {
     font-size: small;
   }
-  table {
+  #tableForWeather {
     font-size: small;
+    margin: 0%;
+    padding: 0%;
+    position: relative;
+    right: 7%;
+    padding: 5px;
   }
   #footer{
     top: 0;
