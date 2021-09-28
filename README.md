@@ -10,4 +10,4 @@ Desktop view:
 
 Mobile view:
 <br>
-<img  src="https://github.com/HarisKordic/My-Weather-App/blob/main/Design%20photos/Responsive_look.png" width="500">
+<img  src="https://github.com/HarisKordic/My-Weather-App/blob/main/Design%20photos/Responsive_look.png" width=500px >
