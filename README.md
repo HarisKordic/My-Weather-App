@@ -4,8 +4,10 @@ I used a free weather api to talk to the server and fetch the data that's needed
 
 
 Desktop view:
+<br>
 <img src="https://github.com/HarisKordic/My-Weather-App/blob/main/Design%20photos/Desktop_look.png">
 
 
 Mobile view:
+<br>
 <img src="https://github.com/HarisKordic/My-Weather-App/blob/main/Design%20photos/Responsive_look.png">
