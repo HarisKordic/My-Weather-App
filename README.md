@@ -18,8 +18,8 @@ Mobile view:
 
 
 
-<select >
-<option>[WEBSITE](https://serene-bhabha-83ffb3.netlify.app/) </option>
-<option> Volvo</option>
-<option>Mercedes </option>
-</select>
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
