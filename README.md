@@ -19,7 +19,7 @@ Mobile view:
 
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Izbornik repozitorija</summary>
 <br>
-This is how you dropdown.
+[WEBSITE](https://serene-bhabha-83ffb3.netlify.app/)
 </details>
