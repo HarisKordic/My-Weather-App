@@ -23,5 +23,7 @@ Mobile view:
 <br>
 <ul>
 <li> <a href="OvjdestavisURL">Ovdje sta zelis da se display </a> </li>
+<li> <a href="OvjdestavisURL">Ovdje sta zelis da se display </a> </li>
+<li> <a href="OvjdestavisURL">Ovdje sta zelis da se display </a> </li>
 </ul>
 </details>
