@@ -30,7 +30,7 @@ body {
   border-radius: 10em;
   color: white;
 }
-#input input:focus{
+#input input:focus {
   outline: none;
 }
 ::placeholder {
@@ -44,9 +44,9 @@ body {
   margin-top: 5px;
   background-color: #3498db;
   border-radius: 5em 5em 5em 5em;
-  height: 180px;
+  height: 200px;
 }
-::-webkit-scrollbar{
+::-webkit-scrollbar {
   width: auto;
 }
 th {
@@ -76,18 +76,25 @@ th {
   .material-icons {
     left: 80%;
   }
-  #wrapper{
-      padding: 0px;
-      padding: 10px;
+  #wrapper {
+    padding: 0px;
+    padding: 10px;
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
   }
   #weather-table {
     width: 80%;
     overflow-y: hidden;
     overflow-x: scroll;
   }
- 
+
   #input {
     font-size: small;
+  }
+  ::placeholder {
+    position: relative;
+    right: 4%;
   }
   #tableForWeather {
     font-size: small;
@@ -97,8 +104,9 @@ th {
     right: 7%;
     padding: 5px;
   }
-  #footer{
+  #footer {
     top: 0;
     left: 20%;
+    top: 20%;
   }
 }
