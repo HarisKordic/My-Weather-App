@@ -22,6 +22,6 @@ Mobile view:
 <summary>Izbornik repozitorija</summary>
 <br>
 <ul>
-<li> <a href="https://serene-bhabha-83ffb3.netlify.app/">Click me </a> </li>
+<li> <a href="OvjdestavisURL">Ovdje sta zelis da se display </a> </li>
 </ul>
 </details>
