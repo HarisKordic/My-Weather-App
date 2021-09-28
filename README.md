@@ -14,3 +14,12 @@ Desktop view:
 Mobile view:
 <br>
 <img  src="https://github.com/HarisKordic/My-Weather-App/blob/main/Design%20photos/Responsive_look.png" >
+
+
+
+
+<select >
+<option>[WEBSITE](https://serene-bhabha-83ffb3.netlify.app/) </option>
+<option> Volvo</option>
+<option>Mercedes </option>
+</select>
