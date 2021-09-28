@@ -30,21 +30,27 @@ body {
   border-radius: 10em;
   color: white;
 }
+#input input:focus{
+  outline: none;
+}
 ::placeholder {
   color: white;
 }
 
 #weather-table {
   text-align: center;
-  padding: 2%;
+  padding: 35px;
   width: 55%;
   margin-top: 5px;
   background-color: #3498db;
-  border-radius: 0em 0em 10em 10em;
+  border-radius: 5em 5em 5em 5em;
   height: 180px;
 }
+::-webkit-scrollbar{
+  width: auto;
+}
 th {
-  padding: 5px;
+  padding: 7px;
   background-color: #1b4f7259;
   border: none;
   border-radius: 100em;
@@ -79,13 +85,15 @@ table {
     overflow-y: hidden;
     overflow-x: scroll;
   }
-  ::-webkit-scrollbar{
-      width: auto;
-  }
+ 
   #input {
     font-size: small;
   }
   table {
     font-size: small;
+  }
+  #footer{
+    top: 0;
+    left: 20%;
   }
 }
