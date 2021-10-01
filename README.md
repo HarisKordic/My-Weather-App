@@ -3,7 +3,7 @@ I used a free weather api to talk to the server and fetch the data that's needed
 <hr>
 <br>
 
-[WEBSITE](https://serene-bhabha-83ffb3.netlify.app/)
+[WEBSITE](https://determined-knuth-7049a9.netlify.app/)
 
 Desktop view:
 <br>
