@@ -83,7 +83,7 @@ document.onkeydown = (button) => {
 gettingWeatherFromAPI = () => {
   let city = document.getElementById("city").value;
   let url =
-    "http://api.weatherapi.com/v1/current.json?key=4154b597c4f44a42926143608212707&q=" +city+"&aqi=no";
+    "//api.weatherapi.com/v1/current.json?key=4154b597c4f44a42926143608212707&q=" +city+"&aqi=no";
   return new Promise((resolve, reject) => {
     fetch(url).then((response) => {
       if (response.status !== 200)
